@@ -26,6 +26,7 @@ var coins = 0
 @onready var animation = $Character/AnimationPlayer
 
 # Functions
+# Hallo Mann
 
 func _physics_process(delta):
 
